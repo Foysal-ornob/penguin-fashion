@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Poppins:wght@500&family=Roboto&family=Spline+Sans:wght@500&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background-color: #FFFBF0;
+}
+
+#top-header-titel{
+    color: #A4BC46;
+}
+
+.about-titel{
+    color: #FABE4C;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.about-area{
+   margin-top: 60px;
+   
+}
+
+.button-price{
+    font-weight: 700;
+}
+
+.footer-area{
+    margin-top: 100px;
+}
